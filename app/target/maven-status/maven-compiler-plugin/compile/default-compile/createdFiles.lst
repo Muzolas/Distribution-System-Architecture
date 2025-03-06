@@ -1,0 +1,5 @@
+com\example\app\model\Task.class
+com\example\app\Application.class
+com\example\app\repository\TaskRepository.class
+com\example\app\service\TaskService.class
+com\example\app\controller\TaskController.class
