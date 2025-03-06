@@ -2,6 +2,11 @@
 
 Bu proje, Docker ve Docker Compose kullanarak oluşturulmuş bir dağıtık sistem mimari örneğidir.
 
+## Proje Anlatım Videosu
+```
+https://drive.google.com/drive/folders/1VXfIg7uLPfa0A7elWznnsrQwIqEkh6lw?usp=sharing
+```
+
 ## Mimari Bileşenler
 
 - **Nginx**: Yük dengeleyici olarak çalışan bir web sunucusu
