@@ -4,7 +4,7 @@ Bu proje, Docker ve Docker Compose kullanarak oluşturulmuş bir dağıtık sist
 
 ## Proje Anlatım Videosu
 ```
-https://drive.google.com/drive/folders/1VXfIg7uLPfa0A7elWznnsrQwIqEkh6lw?usp=sharing
+https://drive.google.com/file/d/1mkIiKvDSvIhXLETy9-U3pPf-WmqrDA8e/view?usp=sharing
 ```
 
 ## Mimari Bileşenler
